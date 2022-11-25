@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Yakup. 👋
 
-<!--
-**celikyakup/celikyakup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist
 
-Here are some ideas to get you started:
+I'm interested in the field of Data Science and Machine Learning, I graduated from Sakarya University Industry Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Condition
+
+- Looking for a full time job as a Junior Data Scientist
+
+## Reach out to me
+
+[<img width="35" title="LinkedIn" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" align="left" />](https://www.linkedin.com/in/celikyakup/)
+[<img width="35" title="HackerRank" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" align="left" />](https://www.hackerrank.com/yakupcelik1_a)
