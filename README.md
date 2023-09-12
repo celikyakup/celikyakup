@@ -6,7 +6,7 @@ I'm interested in the field of Data Science and Machine Learning, I graduated fr
 
 ## Current Condition
 
-- Looking for a full time job as a Junior Data Scientist
+
 
 ## Reach out to me
 
