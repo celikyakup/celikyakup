@@ -2,7 +2,7 @@
 
 ## Data Scientist
 
-I'm interested in the field of Data Science and Machine Learning, I graduated from Sakarya University Industry Engineering.
+I'm interested in the field of Full Stack Web Development, I graduated from Sakarya University Industry Engineering.
 
 ## Current Condition
 
