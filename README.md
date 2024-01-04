@@ -1,6 +1,6 @@
 ### Hi there, I'm Yakup. 👋
 
-## Data Scientist
+## Full Stack Developer
 
 I'm interested in the field of Full Stack Web Development, I graduated from Sakarya University Industry Engineering.
 
